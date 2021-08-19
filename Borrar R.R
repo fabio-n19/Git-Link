@@ -1,5 +1,4 @@
 print("This file was created within RStudio")
-help.search(print)
 
 print("And now it lives on GitHub")
 
