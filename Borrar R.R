@@ -8,6 +8,7 @@ library(bit)
 install.packages(bit)
 
 "This is so I can see if I learned well how to stage and commit"
+ #I save this again
 
 
 
